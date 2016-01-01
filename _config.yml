@@ -1,3 +1,7 @@
+name: Dan plays drums
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.67998
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7268128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2078853
-  brandStrength: 0.5185497
-  lightness: 0.1433692
   brandColors:
     - '#172837'
     - '#ACB3B5'
     - '#CFD8E0'
     - '#911738'
     - '#C54B43'
+  brandStrength: 0.5
+  lightness: 0.1433692
+  saturation: 0.2078853
   rhythmicContrast: 0.3794267
-layout_spectrum: 1
-name: Dan plays drums
+purpose: []

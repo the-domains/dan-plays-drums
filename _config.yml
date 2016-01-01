@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5143339
+  brandStrength: 0.4524447
+  lightness: 0.9132817
+  rhythmicContrast: 0.3794267
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.7268128
+name: Dan plays drums

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dan plays drums]]></title>
+        <description><![CDATA[Dan plays drums]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 18:19:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>I post, therefore I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3dff983a1818e3ef8c0f76ffac9c35f6240996.jpg"></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">4da2c6d0-afdd-4350-ae69-55460fc9f7ff</guid>
+            <pubDate>Fri, 01 Jan 2016 18:19:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

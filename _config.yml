@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7268128
 color:
-  saturation: 0.5143339
-  lightness: 0.9132817
+  saturation: 0.2078853
   brandStrength: 0.5185497
+  lightness: 0.1433692
   brandColors:
     - '#172837'
     - '#ACB3B5'
@@ -21,6 +22,5 @@ color:
     - '#911738'
     - '#C54B43'
   rhythmicContrast: 0.3794267
-typography_spectrum: 0.7268128
 layout_spectrum: 1
 name: Dan plays drums

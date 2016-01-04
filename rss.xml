@@ -4,8 +4,15 @@
         <description><![CDATA[Dan plays drums]]></description>
         <link>https://thegrid.ai/dan-plays-drums/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 00:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 02:00:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dan-plays-drums/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post test!]]></title>
+            <description><![CDATA[<article><h1>Post test!</h1><p>Running some test material!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468c68ab-b9cb-4743-9da1-ea7e3b09790b.JPG"></article>]]></description>
+            <link>https://thegrid.ai/dan-plays-drums/post-test/index.html</link>
+            <guid isPermaLink="false">bc7f7208-e1ee-4c2a-bc03-27c632038ef8</guid>
+            <pubDate>Mon, 04 Jan 2016 02:00:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>I post, therefore I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3dff983a1818e3ef8c0f76ffac9c35f6240996.jpg"></article>]]></description>

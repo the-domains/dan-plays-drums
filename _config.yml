@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Dan plays drums.
+title: dan plays drums.
 cta:
   domain: null
   bucket: null

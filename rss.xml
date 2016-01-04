@@ -4,8 +4,15 @@
         <description><![CDATA[dan plays drums.]]></description>
         <link>https://thegrid.ai/dan-plays-drums/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 02:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 02:28:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dan-plays-drums/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Kickstarter!]]></title>
+            <description><![CDATA[<article><h1>New Kickstarter!</h1><p>I've been fortunate enough to recently work with some great friends on a new folk/indie/americana project called Amanda Penecale and the Lost Sleep.  Amanda just released a Kickstarter for an EP that we'd like to put out this spring, and we would really appreciate if you'd consider supporting the project!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd32f108cfeefdc430ba92a174c09569513a64d8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dan-plays-drums/new-kickstarter/index.html</link>
+            <guid isPermaLink="false">a1040d35-ee4e-405a-a14e-8a600489c04a</guid>
+            <pubDate>Mon, 04 Jan 2016 02:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>I post, therefore I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3dff983a1818e3ef8c0f76ffac9c35f6240996.jpg"></article>]]></description>

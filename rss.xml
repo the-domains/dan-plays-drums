@@ -4,11 +4,18 @@
         <description><![CDATA[Dan plays drums]]></description>
         <link>https://thegrid.ai/dan-plays-drums/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 02:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 02:03:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dan-plays-drums/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[test two]]></title>
+            <description><![CDATA[<article><h1>test two</h1><p>test part two</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65864ca6992d79636e2034f1697a6d4aa34d77a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dan-plays-drums/test-two/index.html</link>
+            <guid isPermaLink="false">a1314ada-772b-4cd6-8275-80e320db9e39</guid>
+            <pubDate>Mon, 04 Jan 2016 02:02:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Post test!]]></title>
-            <description><![CDATA[<article><h1>Post test!</h1><p>Running some test material!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468c68ab-b9cb-4743-9da1-ea7e3b09790b.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Post test!</h1><p>Running some test material!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d42685fe356942acdef544bf4af6de91d9f52f.jpg"></article>]]></description>
             <link>https://thegrid.ai/dan-plays-drums/post-test/index.html</link>
             <guid isPermaLink="false">bc7f7208-e1ee-4c2a-bc03-27c632038ef8</guid>
             <pubDate>Mon, 04 Jan 2016 02:00:33 GMT</pubDate>

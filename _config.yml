@@ -1,7 +1,7 @@
 name: Dan plays drums
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.67998
+layout_spectrum: 0.26634
+typography_spectrum: 0.33656
 collections:
   - index:
       path: /

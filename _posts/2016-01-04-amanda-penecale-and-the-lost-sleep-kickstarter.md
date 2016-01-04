@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T02:21:07.986Z'
-dateModified: '2016-01-04T02:20:51.951Z'
-title: 'Amanda Penecale and the Lost Sleep Kickstarter!'
+datePublished: '2016-01-04T02:26:26.672Z'
+dateModified: '2016-01-04T02:26:21.340Z'
+title: 'New Kickstarter!'
 author: []
+sourcePath: _posts/2016-01-04-amanda-penecale-and-the-lost-sleep-kickstarter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-amanda-penecale-and-the-lost-sleep-kickstarter.md
-published: true
 url: amanda-penecale-and-the-lost-sleep-kickstarter/index.html
 _type: Article
 
